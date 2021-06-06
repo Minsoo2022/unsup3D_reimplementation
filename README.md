@@ -6,4 +6,4 @@
 
 ### Visualize EX : python main.py --type visualize --gpu_ids 0 --batch_size 64 --dataset CelebA --load_dir ./checkpoint/CelebA/model_final
 
-### Pretrained model can be downloaded from 
+### Pretrained model can be downloaded from https://drive.google.com/file/d/1MTt_CeRxna2Je5S18kWr0SqQjKDvGC7v/view?usp=sharing
